@@ -1,0 +1,1 @@
+# gnk-stealclothes_updater
